@@ -12,4 +12,4 @@ The program request for three inputs (city, month, and day) from the user and ta
 6 - The counts of user types.\
 7 - User gender count.\
 8 - Getting the earliest, most recent, and most common year of birth.\
-9 - Showing some raw data if user choose to.\
+9 - Showing some raw data if user choose to.
