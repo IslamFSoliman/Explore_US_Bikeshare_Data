@@ -1,6 +1,6 @@
 # US Bike Share Analysis
-### Udacity Data Analysis Professional Nanodegree January 2021 - March 2021
-#### Project 1: US Bike Share Analysis using Python
+### Udacity Professional Data Analysis Nano-degree
+#### US Bike Share Analysis using Python
 
 ## Project Overview
 In this project, I will make use of Python to explore data related to bikeshare systems for three major bikeshare systems in the United States. I will perform data wrangling to unify the format of data from the three systems and write code to compute descriptive statistics. I will also make use of a package that is not part of the standard Python library to help me visualize the data.
